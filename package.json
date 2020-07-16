@@ -1,0 +1,23 @@
+{
+  "name": "artfolbot",
+  "version": "1.0.0",
+  "description": "Discord Bot for Artfol server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artfol/artfolbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artfol/artfolbot/issues"
+  },
+  "homepage": "https://github.com/Artfol/artfolbot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
